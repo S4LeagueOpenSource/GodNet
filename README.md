@@ -27,7 +27,6 @@ Also you need MongoDB to be installed and running.
 
 Go in the Core directory and execute the following command:
 `npm install`
-Or use install.bat if you are on Windows.
 
 ## Using GodNet
 
