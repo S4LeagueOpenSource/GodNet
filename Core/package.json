@@ -1,0 +1,16 @@
+{
+	"name": "S4LeagueCore",
+	"description": "S4 League Core",
+	"author": "S4LeagueOpenSource",
+	"dependencies" : {
+		"async": "2.0.0-rc.2",
+		"colors": "1.1.2",
+		"express": "4.13.4",
+		"int53": "0.2.4",
+		"mongoose": "4.4.11",
+		"mongoose-auto-increment": "5.0.1",
+		"smart-buffer": "1.0.3",
+		"socket.io": "1.4.5",
+		"underscore": "1.8.3"
+	}
+}

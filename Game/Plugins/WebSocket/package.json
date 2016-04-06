@@ -1,0 +1,7 @@
+{
+	"name": "GodNetGameServerPluginWebSocket",
+	"description": "WebSocket Plugin for GodNet Game Server",
+	"author": "S4LeagueOpenSource",
+  	"main": "./Init",
+  	"load": "true"
+}
