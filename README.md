@@ -42,7 +42,6 @@ You need all 4 Servers if you want to start up the S4Client. It was developed wi
 
 Just go in the directory and execute the following command:
 `node Init.js`
-Or use start.bat if you are on Windows.
 
 ## License
 
